@@ -1,0 +1,6 @@
+{
+  "name": "Aura",
+  "description": "Smart personal wealth, cash flow, budget, and subscription tracker with real-time analytics and Material 3 design.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
